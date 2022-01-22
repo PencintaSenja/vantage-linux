@@ -30,7 +30,7 @@ sudo apt install zenity xinput
 first of all, you need to clone the repository with this command:
 ```bash
 git clone https://github.com/PencintaSenja/vantage-linux
-cd vantage
+cd vantage-linux
 ```
 then you can easily run this command
 
